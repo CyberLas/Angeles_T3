@@ -1,4 +1,4 @@
-package com.example.angeles_t3;
+package com.example.angeles_t3.examen;
 
 import org.junit.Test;
 
